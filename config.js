@@ -38,57 +38,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['6285773906324', 'hanDev', true],
+['6285773906324', 'hanDev', true],
+['6281399318253', 'hanDev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
-global.nomorwa = '0'
+global.nomorbot = '6281399318253'
+global.nomorown = '6285773906324'
+global.nomorown1 = '6285773906324'
+global.nomorown2 = '6281399318253'
+global.nomorwa = '6281399318253'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝙭𝙧𝙗𝙤𝙩'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.author = 'hanDev X hanBot'
+global.namebot = 'hant 𝗺𝗱'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 han 𝗺𝗱'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm = 'han 𝗺𝗱 '
 global.watermark = wm
-global.wm2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm2 = 'han 𝗺𝗱 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩`
-global.stickpack = '𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.titlebot = `hanDev 𝐗 hanMd`
+global.stickpack = 'hanDev 𝐗 han 𝗺𝗱'
 global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝘼𝙗𝙞𝘿𝙚𝙫'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.nameown1= 'hanDev'
+global.nameown2 = 'han 𝗺𝗱'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/Abityru24'
-global.sgh = 'https://github.com/AbiDev11' //github
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = 'https://instagram.com/ardfq_'
+global.sgh = 'https://github.com/Levii13' //github
+global.sgc = 'gada' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+global.snh = 'yt han'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '088232154376'
+global.pdana = '6281399318253'
 global.povo = '-'
-global.pgopay = '088232154376'
+global.pgopay = '6285773906324'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '6281399318253'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
